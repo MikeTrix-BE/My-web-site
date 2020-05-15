@@ -1,1 +1,1 @@
-my website for GIT lesson
+my website for GIT/GITHUB lesson
